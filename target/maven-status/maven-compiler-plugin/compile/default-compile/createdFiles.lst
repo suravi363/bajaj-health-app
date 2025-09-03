@@ -1,0 +1,5 @@
+com\bajajfinservhealth\model\GenerateWebhookResponse.class
+com\bajajfinservhealth\BajajApp.class
+com\bajajfinservhealth\model\SubmitQueryRequest.class
+com\bajajfinservhealth\WebhookService.class
+com\bajajfinservhealth\model\GenerateWebhookRequest.class
